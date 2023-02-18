@@ -1,0 +1,23 @@
+
+{
+  "name": "flutter-parse-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dbeckinsale/flutter-parse-app/new/master"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dbeckinsale/flutter-parse-app/new/master"
+  },
+  "homepage": "https://github.com/dbeckinsale/flutter-parse-app/new/master#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
